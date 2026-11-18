@@ -61,7 +61,13 @@
 
 | Project | What it is | Tech |
 |---|---|---|
+| 🦟 [**Bangladesh Dengue Prediction**](https://github.com/fouziaOS/bangladesh-dengue-prediction) | Predicting dengue outbreaks from REAL data — DGHS monthly cases 2001–2024 + NASA POWER weather; outbreak classifier ROC-AUC 0.92, SHAP explainability, full project report + IEEE-format paper | Python · Pandas · scikit-learn · SHAP |
 | 🌐 [**Personal Data Science Portfolio Website**](https://github.com/fouziaOS/fouzia-portfolio-website) | My personal portfolio website — Home, About, Python Projects, NumPy & Data Visualization collections, Data Analysis, and Contact | Python · HTML · CSS |
+| 🛵 [**Dhaka Ride-Sharing Analysis**](https://github.com/fouziaOS/dhaka-rideshare-analysis) | 600 Dhaka ride trips analyzed + a Machine Learning model that predicts fares (R² 0.93) | Python · Pandas · scikit-learn |
+| 🍔 [**Online Food Delivery Analysis**](https://github.com/fouziaOS/online-food-delivery-analysis) | 550 food orders analyzed + delivery-time prediction model (R² 0.80) | Python · Pandas · scikit-learn |
+| 📱 [**Mobile Banking Transaction Analysis**](https://github.com/fouziaOS/mobile-banking-transaction-analysis) | 700 mobile banking transactions + high-value transaction classifier (95.7% accuracy) | Python · Pandas · scikit-learn |
+| 💡 [**Dhaka Electricity & Load-Shedding Analysis**](https://github.com/fouziaOS/dhaka-electricity-loadshedding-analysis) | 365 days of demand/supply data + load-shedding prediction model (R² 0.79) | Python · Pandas · scikit-learn |
+| 🏥 [**Hospital Patient Analysis**](https://github.com/fouziaOS/hospital-patient-analysis) | 500 patients analyzed + satisfaction prediction model | Python · Pandas · scikit-learn |
 | 🔢 [**NumPy in 50 Examples**](https://github.com/fouziaOS/numpy-50-examples) | 50 runnable NumPy examples with a Jupyter notebook — dtypes, broadcasting, linear algebra, statistics & the modern random API | Python · NumPy |
 | 📊 [**Data Visualization in 50 Examples**](https://github.com/fouziaOS/data-visualization-50-examples) | 50 Matplotlib recipes with rendered previews — charts, distributions, time series, heatmaps, 3D plots & layouts | Python · Matplotlib |
 | 🔬 **Generative AI & Student Creativity** (CSE 460, FYDP-I) | Quantitative cross-sectional survey on how students' academic use of generative AI relates to perceived creativity and academic performance | Research · Survey · Statistics |
