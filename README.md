@@ -61,7 +61,7 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| 🌐 [**Personal Data Science Portfolio Website**](https://github.com/fouziaOS/fouzia-portfolio-website) | My personal portfolio website — Home, About, Python Projects, NumPy & Data Visualization collections, Data Analysis, and Contact | HTML · CSS · JavaScript |
+| 🌐 [**Personal Data Science Portfolio Website**](https://github.com/fouziaOS/fouzia-portfolio-website) | My personal portfolio website — Home, About, Python Projects, NumPy & Data Visualization collections, Data Analysis, and Contact | Python · HTML · CSS |
 | 🔢 [**NumPy in 50 Examples**](https://github.com/fouziaOS/numpy-50-examples) | 50 runnable NumPy examples with a Jupyter notebook — dtypes, broadcasting, linear algebra, statistics & the modern random API | Python · NumPy |
 | 📊 [**Data Visualization in 50 Examples**](https://github.com/fouziaOS/data-visualization-50-examples) | 50 Matplotlib recipes with rendered previews — charts, distributions, time series, heatmaps, 3D plots & layouts | Python · Matplotlib |
 | 🔬 **Generative AI & Student Creativity** (CSE 460, FYDP-I) | Quantitative cross-sectional survey on how students' academic use of generative AI relates to perceived creativity and academic performance | Research · Survey · Statistics |
