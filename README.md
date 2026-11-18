@@ -64,8 +64,6 @@
 | 🔢 [**NumPy in 50 Examples**](https://github.com/fouziaOS/numpy-50-examples) | 50 runnable NumPy examples with a Jupyter notebook — dtypes, broadcasting, linear algebra, statistics & the modern random API | Python · NumPy |
 | 📊 [**Data Visualization in 50 Examples**](https://github.com/fouziaOS/data-visualization-50-examples) | 50 Matplotlib recipes with rendered previews — charts, distributions, time series, heatmaps, 3D plots & layouts | Python · Matplotlib |
 | 🔬 **Generative AI & Student Creativity** (CSE 460, FYDP-I) | Quantitative cross-sectional survey on how students' academic use of generative AI relates to perceived creativity and academic performance | Research · Survey · Statistics |
-| 💧 [**Smart Water Tank & Intelligent Pump Controller**](https://github.com/fouziaOS/smart-water-tank-pump-controller) | Automatic water level detection and pump control with overflow & dry-run protection, leakage alerts, LCD display and mobile app control | ESP32 · HC-SR04 · Blynk IoT |
-| 🆘 [**Smart Disaster Rescue & GPS Tracking System**](https://github.com/fouziaOS/smart-disaster-rescue-gps-tracker) | Press a button and the system SMS-es your live GPS location to a rescue team | Arduino Uno · NEO-6M GPS · SIM800L GSM |
 | 🧮 [**Bellman-Ford & the Yen-BF Technique**](https://github.com/fouziaOS/bellman-ford-yen-bf-poster) | Advanced Algorithm course poster — how forward + backward relaxation passes make Bellman-Ford converge about 2× faster | Algorithms · LaTeX |
 
 ## 📈 GitHub Stats
