@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fouzia%20Hoque&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%C2%B7%20Python%20%C2%B7%20AI%20%2F%20ML&descAlignY=55&descSize=16" width="100%">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Python+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Generative+AI+Researcher+%F0%9F%94%AC;Final-year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Generative+AI+Researcher+%F0%9F%94%AC;Final-year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
